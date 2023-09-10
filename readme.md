@@ -6,6 +6,8 @@ since the apps love your activity on them to retain their user base,
 
 so if you're not active, your priority in their algorithm might be impacted.
 
+
+
 swipe left was blatantly edited to help me to swipe left on everything, 
 
 at first the original did not work for me, 
