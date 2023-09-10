@@ -1,0 +1,12 @@
+these repo are not worth using.
+they do not fit for purpose on what is achieved, 
+random is not going to help with matching algorithm.
+deblur there is another repo which works.
+
+Also mentioning Selenium is not the way to do it as automation method.
+it uses geckodriver and selenium, with node.js to communicate with tinder api,
+very dangerous in sending information that says you are a bot.
+also you will just be blocked from logging in.
+The method is worth noting that it is somewhat useful if you can turn it to communicate with your own server.
+
+but that is another story.
