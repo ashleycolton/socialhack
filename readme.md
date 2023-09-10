@@ -1,22 +1,37 @@
 This is a compilation of useful backup of existing internet social productivity hacks. (they are not produced by me)
-It is to enable rate of success and minimize time spent, since the apps love your activity on them to retain their user base, 
+
+It is to enable rate of success and minimize time spent, 
+
+since the apps love your activity on them to retain their user base, 
+
 so if you're not active, your priority in their algorithm might be impacted.
+
 swipe left was blatantly edited to help me to swipe left on everything, 
+
 at first the original did not work for me, 
+
 that is why I found ways to read the .js and also the html layouts in console. 
 
-It does work at firefox for me,although it doesn't filter properly.
+It does work at firefox for me, although it doesn't filter properly.
+
 bumble vote is a decent script that checks for the votes you have and if people voted for you.
+
 the importance of a good profile matters a lot,impressionism, mine is more of a catfish profile, it has a lot of authenticity in it, but as long as you keep improving, it will be more effective. 
 
 #personal part
 I believe in communication more. but shit no one cares about good relationship these days unless it's work relationship(adulting relationship), where is your authenticity, friendship, like c'mon for real you already got a fulfilling spiritual needs? Like stop talking only figures and talk authenticity dude.
 it's not that hard actually we just need like a simple reason, im breathing, so lets have fun. Whilst i was travelling I make a lot of friends, and that was the only reason we need to make friends, but it shouldn't be this way like only on vacations. 
+
 Do interactive society for youths and young adults exist?
+
 Do we make friends only from friends? drinks? 
+
 do u make friends from drinking?
+
 i never drink so idk
+
 but i like making friends
+
 
 I guess outdoor interest does help, and bonding activity like dragonboat, social gyming, and meetup.
 
