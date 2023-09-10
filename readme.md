@@ -45,9 +45,24 @@ but also, we do have the interpersonal ability to connect and once you start hel
 Expanding channels to know people, can be very useful.
 
 Day1
-my profile on bumble is more of a INTJ targetted profile, but also nothing factual. You don't need factual stuff to know people, I believed that. I guess that could be a problem we need to solve after the conversation started, cuz they don't know what you are. so make sure you put in effort to really introduce yourself.
+my profile on bumble is more of a INTJ targetted profile, but also nothing factual. 
+
+You don't need factual stuff to know people, 
+
+I believed that. 
+
+I guess that could be a problem we need to solve after the conversation started, 
+cuz they don't know what you are. so make sure you put in effort to really introduce yourself.
 To introduce yourself on the internet, you tell them what you do, you say what is your deal breaker of what they do, and prospects what happens after.
 
-I remember bumble was like already ineffective for match, and also tinder. people lost enthusiasm after it's out for so long. okc surely has some nice algorithm, at the cost of very profiling questions, but I just tried it. You can save images after clicking? that's quite abusive isn't it? Hinge was quite elaborate profile for authenticity, but the ELO of the profiles are not as optimized as the rest. 
-If it was not automated, I might only use like 1 channel. But we still haven't got a nice solution to automate it. like predict, no face(pass), filter(undesirable characteristics & words like ig), matching profile, rate profile: pass or cancel. It shouldn't be hard to simulate at all, visualizing is also easy, just need algorithm for face recognition.
+I remember bumble was like already ineffective for match, and also tinder. 
+people lost enthusiasm after it's out for so long. 
+okc surely has some nice algorithm, at the cost of very profiling questions, 
+but I just tried it. 
+You can save images after clicking? that's quite abusive isn't it? 
+Hinge was quite elaborate profile for authenticity, but the ELO of the profiles are not as optimized as the rest. 
+
+If it was not automated, I might only use like 1 channel. 
+But we still haven't got a nice solution to automate it. like predict, no face(pass), filter(undesirable characteristics & words like ig), matching profile, rate profile: pass or cancel. It shouldn't be hard to simulate at all, visualizing is also easy, just need algorithm for face recognition.
+
 I might make this my project.
