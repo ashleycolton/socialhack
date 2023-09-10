@@ -1,6 +1,9 @@
 This is a compilation of useful backup of existing internet social productivity hacks. (they are not produced by me)
-It is to enable rate of success and minimize time spent, since the apps love your activity on them to retain their user base, so if you're not active, your priority in their algorithm might be impacted.
-swipe left was blatantly edited to help me to swipe left on everything, at first the original did not work for me, so that is why I found ways to read the .js and also the html layouts in console. 
+It is to enable rate of success and minimize time spent, since the apps love your activity on them to retain their user base, 
+so if you're not active, your priority in their algorithm might be impacted.
+swipe left was blatantly edited to help me to swipe left on everything, 
+at first the original did not work for me, 
+that is why I found ways to read the .js and also the html layouts in console. 
 
 It does work at firefox for me,although it doesn't filter properly.
 bumble vote is a decent script that checks for the votes you have and if people voted for you.
