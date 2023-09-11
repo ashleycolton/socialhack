@@ -1,0 +1,13 @@
+// Step 1: Replace '\n' with '>'
+//var str="Google runoob taobao runoob"; 
+//var n1=str.match(/runoob/);   // 查找第一次匹配项
+//var n2=str.match(/runoob/g);  // 查找所有匹配项
+//var str="Google runoob taobao RUNoob"; 
+//var n1=str.match(/runoob/g);   // 区分大小写
+//var n2=str.match(/runoob/gi);  // 不区分大小写
+//var str="runoobgoogle\ntaobao\nrunoobweibo";
+//var n1=str.match(/^runoob/g);   // 匹配一个
+//var n2=str.match(/^runoob/gm);  // 多行匹配
+//var str="google\nrunoob\ntaobao";
+//var n1=str.match(/google./);   // 没有使用 s，无法匹配\n
+//var n2=str.match(/runoob./s);  // 使用 s，匹配\n
